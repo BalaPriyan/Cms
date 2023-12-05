@@ -45,4 +45,4 @@ tgcrypto
 uvloop
 urllib3==1.26
 xattr
-yt-dlp==2023.3.
+yt-dlp==2023.3.4
